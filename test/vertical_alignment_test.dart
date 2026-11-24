@@ -1,5 +1,5 @@
 import 'package:easy_stepper/easy_stepper.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 Widget _app(CrossAxisAlignment? align) => MaterialApp(

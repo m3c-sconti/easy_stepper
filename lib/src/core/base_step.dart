@@ -2,7 +2,7 @@ import 'dart:math';
 
 import 'package:easy_stepper/easy_stepper.dart';
 import 'package:easy_stepper/src/core/easy_border.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:lottie/lottie.dart';
 
 import 'base_step_delegate.dart';

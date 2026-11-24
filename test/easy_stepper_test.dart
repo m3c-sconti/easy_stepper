@@ -1,7 +1,7 @@
 import 'package:easy_stepper/easy_stepper.dart';
 import 'package:easy_stepper/src/core/easy_border.dart';
 import 'package:easy_stepper/src/core/step_builder.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
